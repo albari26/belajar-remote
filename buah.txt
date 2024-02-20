@@ -1,0 +1,4 @@
+1.apel
+2.jeruk
+3.mangga
+4.semangka
